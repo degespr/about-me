@@ -1,4 +1,4 @@
-# dege.spr
+# Diego Oliveira
 
 ## 💻 Desenvolvedor Web focado em Java
 
