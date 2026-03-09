@@ -31,4 +31,4 @@ Trabalho na construção de bases sólidas em backend, desenvolvimento web e ban
 ---
 
 ## 📫 Contato
-dgspr.dev@gmail.com
+dfernandesoliveira@outlook.com
