@@ -1,6 +1,6 @@
 # Diego Oliveira
 
-## 💻 Desenvolvedor Web focado em Java
+## 💻 Desenvolvedor Backend focado em Java
 
 Trabalho na construção de bases sólidas em backend, desenvolvimento web e bancos de dados, com foco em criar sistemas bem estruturados e escaláveis.
 
